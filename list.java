@@ -2,3 +2,5 @@
 dominion
 simon
 rose
+paul
+jonathan
