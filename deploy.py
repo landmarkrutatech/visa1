@@ -6,4 +6,5 @@
 
 print ('Hello World')
 # bugs removed
-        
+print("card renewal automated")
+print("hello $user your card is expiring soon you need a new card")
